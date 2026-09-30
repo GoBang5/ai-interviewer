@@ -3,7 +3,7 @@
 产品：**情报驱动 面试备战**  
 线上：https://8.219.189.79.sslip.io/  
 演示：`/interview?demo=1`（不写历史）  
-仓库：https://github.com/GoBang5/diqi
+仓库：https://github.com/GoBang5/ai-interviewer
 
 用法：先把「30 秒开场」练到不看稿。后面按场次练，**先自己答 60–90 秒，再对照参考答案**。括号里的「再追」是评委下一刀，不要主动往那说，等被问再答。
 
