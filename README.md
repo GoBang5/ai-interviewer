@@ -4,7 +4,7 @@
 
 - 线上：https://8.219.189.79.sslip.io/
 - 演示：https://8.219.189.79.sslip.io/interview?demo=1
-- 仓库：https://github.com/GoBang5/ai-interviewer
+- 仓库：https://github.com/GoBang5/diqi
 
 面向准备实习或夏令营面试的本科生。去向不一定是公司，常常一场接一场。
 

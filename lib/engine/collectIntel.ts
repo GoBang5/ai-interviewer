@@ -68,7 +68,7 @@ const NOISE_TERMS = [
 ];
 const AUTO_EXCLUDED = ['zhihu.com', 'xiaohongshu.com'];
 const USER_AGENT =
-  'InterviewIntelligence/0.1 (public-web-research; +https://github.com/GoBang5/ai-interviewer)';
+  'InterviewIntelligence/0.1 (public-web-research; +https://github.com/GoBang5/diqi)';
 
 function cleanText(value: string): string {
   return value
